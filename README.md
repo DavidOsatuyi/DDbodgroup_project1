@@ -1,7 +1,9 @@
 ![BOD Group Project Dashboard by David Osatuyi](https://github.com/user-attachments/assets/14c0822d-8678-4562-85fe-0748aca75fac)
 
 INTRODUCTION
+
 Objective Of the Project
+
 This project aims to develop a predictive model that identifies low-risk customers for loan approvals, pinpointing top-performing customers and providing actionable insights into cities with favourable risk profiles. Through comprehensive data analysis, we will:
 
 1. Identify low-risk customers: Develop a robust risk assessment framework to flag customers with a high likelihood of loan repayment.
